@@ -1,6 +1,22 @@
 .App {
   text-align: center;
 }
+.container {
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center;    /* Center vertically */
+          /* Full viewport height */
+}
+
+.centered-div {
+  width: 100%;           /* Set width of the div */
+    margin-top: 40px;     /* Set height of the div */
+    margin-bottom: 40px;     /* Set height of the div */
+  
+  text-align: center;     /* Center text inside the div */
+  
+}
+
 
 .App-logo {
   height: 40vmin;
