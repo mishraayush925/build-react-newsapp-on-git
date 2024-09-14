@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mishraayush925/build-react-newsapp-on-git/static/css/main.0e0883d6.css",
-    "main.js": "/mishraayush925/build-react-newsapp-on-git/static/js/main.3990a9e0.js",
-    "static/js/453.18dbb74b.chunk.js": "/mishraayush925/build-react-newsapp-on-git/static/js/453.18dbb74b.chunk.js",
-    "index.html": "/mishraayush925/build-react-newsapp-on-git/index.html",
-    "main.0e0883d6.css.map": "/mishraayush925/build-react-newsapp-on-git/static/css/main.0e0883d6.css.map",
-    "main.3990a9e0.js.map": "/mishraayush925/build-react-newsapp-on-git/static/js/main.3990a9e0.js.map",
-    "453.18dbb74b.chunk.js.map": "/mishraayush925/build-react-newsapp-on-git/static/js/453.18dbb74b.chunk.js.map"
+    "main.css": "/build-react-newsapp-on-git/static/css/main.0e0883d6.css",
+    "main.js": "/build-react-newsapp-on-git/static/js/main.e6192899.js",
+    "static/js/453.18dbb74b.chunk.js": "/build-react-newsapp-on-git/static/js/453.18dbb74b.chunk.js",
+    "index.html": "/build-react-newsapp-on-git/index.html",
+    "main.0e0883d6.css.map": "/build-react-newsapp-on-git/static/css/main.0e0883d6.css.map",
+    "main.e6192899.js.map": "/build-react-newsapp-on-git/static/js/main.e6192899.js.map",
+    "453.18dbb74b.chunk.js.map": "/build-react-newsapp-on-git/static/js/453.18dbb74b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0e0883d6.css",
-    "static/js/main.3990a9e0.js"
+    "static/js/main.e6192899.js"
   ]
 }
